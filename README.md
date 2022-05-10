@@ -28,3 +28,10 @@ git, this article's gonna help you: https://docs.github.com/en/repositories/crea
 
 
 remember kids, it's all about the rhythm....and soul, don't forget the soul.
+
+
+Contact Me :)
+
+- Linkedin: https://www.linkedin.com/in/rafael-david-da-silva-0312a7224
+- Email: rafael_dvid@hotmail.com
+

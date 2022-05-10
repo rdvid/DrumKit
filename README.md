@@ -7,11 +7,11 @@ and exploring more about events and queryes.
 
 - WHAT YOU NEED TO USE - 
 
-1- Computer
-2- VsCode
-3- Live Server extension
-3- a good pair of speakers
-3- a musical urge to smash your neighbor's ears
+1- Computer  
+2- VsCode  
+3- Live Server extension  
+3- a good pair of speakers  
+3- a musical urge to smash your neighbor's ears  
 
 
 - STEPS TO USE -
